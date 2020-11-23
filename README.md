@@ -1,3 +1,3 @@
 # Textbooks
 
-Collection of math and CS textbooks
+Collection of math and CS textbooks (freely available)
