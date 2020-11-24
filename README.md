@@ -8,6 +8,8 @@ Collection of mathematics and computer science textbooks that are freely availab
 
 [Abstract Algebra - Dommit, Foote](https://github.com/mbatoul/textbooks/blob/master/abstract_algebra_dummit_foote.pdf)
 
+[A Book of Abstract Algebra - Pinter](https://github.com/mbatoul/textbooks/blob/master/a_book_of_abstract_algebra_pinter.pdf)
+
 [Algèbre, Chapitre 4 à 7 - Bourbaki](https://github.com/mbatoul/textbooks/blob/master/alg%C3%A8bre_chapitre_4_%C3%A0_7_bourbaki.pdf)
 
 [Algèbre Communative, Chapitres 1 à 4 - Bourbaki](https://github.com/mbatoul/textbooks/blob/master/alg%C3%A8bre_commutative_chapitres_1_%C3%A0_4_bourbaki.pdf)
