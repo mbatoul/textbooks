@@ -18,9 +18,13 @@ Collection of mathematics and computer science textbooks that are freely availab
 
 [Algèbre Communative, Chapitres 5 à 7 - Bourbaki](https://github.com/mbatoul/textbooks/blob/master/alg%C3%A8bre_commutative_chapitres_5_%C3%A0_7.pdf)
 
-### Calculus
+### Calculus & Analysis
 
 [Ordinary Differential Equations - Arnold](https://github.com/mbatoul/textbooks/blob/master/ordinary_differential_equations_arnold.pdf)
+
+[Analysis I - Tao](https://github.com/mbatoul/textbooks/blob/master/analysis_I_tao.pdf)
+
+[Analysis II - Tao](https://github.com/mbatoul/textbooks/blob/master/analysis_II_tao.pdf)
 
 ### Probability & Statistics
 
@@ -38,7 +42,9 @@ Collection of mathematics and computer science textbooks that are freely availab
 
 ## Computer Science
 
-[Structure and Interpretation of Computer Programs - Abelson](https://github.com/mbatoul/textbooks/blob/master/structure_and_interpretation_of_computer_programs.pdf)
+[Structure and Interpretation of Computer Programs - Cormen, Leiserson, Rivest, Stein](https://github.com/mbatoul/textbooks/blob/master/introduction_to_algorithms.pdf)
+
+[Introduction to Algorithms - Abelson](https://github.com/mbatoul/textbooks/blob/master/structure_and_interpretation_of_computer_programs.pdf)
 
 ## Miscellaneous
 [Mathematics for Machine Learning - Faisal, Cheng Soon Ong, and Deisenroth](https://github.com/mbatoul/textbooks/blob/master/mathematics_for_machine_learning.pdf)
