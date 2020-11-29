@@ -6,6 +6,8 @@ Collection of mathematics and computer science textbooks that are freely availab
 
 ### Algebra
 
+[Algebra - Lang](https://github.com/mbatoul/textbooks/blob/master/algebra_lang.pdf)
+
 [Abstract Algebra - Dommit, Foote](https://github.com/mbatoul/textbooks/blob/master/abstract_algebra_dummit_foote.pdf)
 
 [A Book of Abstract Algebra - Pinter](https://github.com/mbatoul/textbooks/blob/master/a_book_of_abstract_algebra_pinter.pdf)
